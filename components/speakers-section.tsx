@@ -11,17 +11,17 @@ const speakersData = [
     speakers: [
       {
         name: "Dr. Harshal Bhangale",
-        designation: "Senior Space Researcher, ISRO",
-        bio: "Dr. Anil Kumar has over 15 years of experience in space research and has contributed to several ISRO missions.",
+        designation: "Software Developer, Google",
+        bio: "Dr. Harshal Bhangale has over 1 years of experience in   research and has contributed to several projects.",
         image: "/placeholder.svg?height=300&width=300",
-        session: "Keynote Session: Future of Space Research & AI",
+        session: "Keynote Session: Future of Research & Gen AI",
       },
       {
-        name: "Prof. Rajesh Mehta",
+        name: "Dr. Harshada Raut",
         designation: "AI Researcher, IIT Bombay",
-        bio: "Prof. Rajesh Mehta specializes in AI applications in space technology and has published numerous research papers.",
+        bio: "Dr. Harshada Raut specializes in AI applications in space technology and has published numerous research papers.",
         image: "/placeholder.svg?height=300&width=300",
-        session: "Technical Workshop: AI & ML in Space Technology",
+        session: "Technical Workshop: AI & ML in Technology",
       },
     ],
   },
