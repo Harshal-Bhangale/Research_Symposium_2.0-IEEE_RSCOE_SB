@@ -39,7 +39,7 @@ export function LocationSection() {
                 <div>
                   <h3 className="text-2xl font-bold text-white mb-4">Venue Address</h3>
                   <address className="not-italic text-gray-300 space-y-2 text-lg">
-                    <p>JSPM RSCOE</p>
+                    <p>JSPM Rajarshi Shahu College Of Engineering </p>
                     <p>Tathawade, Pune</p>
                     <p>Maharashtra, India - 411033</p>
                   </address>
@@ -47,7 +47,7 @@ export function LocationSection() {
               </div>
             </Card>
 
-            <Card className="bg-black/50 border border-blue-900/50 backdrop-blur-sm p-8 glow-card">
+            {/* <Card className="bg-black/50 border border-blue-900/50 backdrop-blur-sm p-8 glow-card">
               <div className="flex items-start gap-4">
                 <div className="bg-purple-500/20 p-3 rounded-full h-fit">
                   <Navigation className="h-6 w-6 text-purple-500" />
@@ -70,7 +70,7 @@ export function LocationSection() {
                   </ul>
                 </div>
               </div>
-            </Card>
+            </Card> */}
           </motion.div>
 
           <motion.div
@@ -81,7 +81,7 @@ export function LocationSection() {
             className="h-[450px] rounded-lg overflow-hidden border border-blue-900/50 glow-card"
           >
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.8022240463113!2d73.75627841489322!3d18.58956998736536!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b9f1ca8dab03%3A0x6237cfbd36f9acf!2sJSPM&#39;s%20Rajarshi%20Shahu%20College%20Of%20Engineering!5e0!3m2!1sen!2sin!4v1648123456789!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d668.3892223226093!2d73.74717051454061!3d18.619950756042638!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bbbc138acb7b%3A0x67043867a211a31d!2sJSPM%20Rajarshi%20Shahu%20College%20Of%20Engineering%20%2C%20Tathawade!5e0!3m2!1sen!2sin!4v1742753327965!5m2!1sen!2sin"
               width="100%"
               height="100%"
               style={{ border: 0 }}
@@ -94,7 +94,7 @@ export function LocationSection() {
           </motion.div>
         </div>
       </div>
-    </section>
+    </section >
   )
 }
 

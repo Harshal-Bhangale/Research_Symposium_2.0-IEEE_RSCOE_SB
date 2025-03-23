@@ -83,7 +83,7 @@ export function HeroSection() {
             <div ref={planetRef} className="w-[500px] h-[500px] mx-auto relative">
               <div className="absolute inset-0 rounded-full bg-gradient-to-br from-blue-600/20 via-purple-600/20 to-transparent blur-3xl" />
               <img
-                src="/placeholder.svg?height=500&width=500"
+                src="/mainFlyer.jpg?height=500&width=500"
                 alt="Space illustration"
                 className="w-full h-full object-contain floating"
               />

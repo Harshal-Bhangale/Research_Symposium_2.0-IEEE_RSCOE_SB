@@ -35,8 +35,12 @@ export function Navbar() {
       )}
     >
       <div className="container mx-auto px-4 flex justify-between items-center">
+        {/* <Link href="/" className="flex items-center space-x-2">
+          <span className="text-xl font-bold text-gradient">IEEE RSCOE Student Branch</span>
+        </Link> */}
+
         <Link href="/" className="flex items-center space-x-2">
-          <span className="text-xl font-bold text-gradient">IEEE RSCOE SB</span>
+          <img src="/logo.jpg?height=40&width=120" alt="IEEE RSCOE SB Logo" className="h-8 md:h-10" />
         </Link>
 
         {/* Desktop Navigation */}

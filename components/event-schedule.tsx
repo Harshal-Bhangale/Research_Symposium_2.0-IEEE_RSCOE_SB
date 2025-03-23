@@ -10,80 +10,81 @@ const scheduleData = [
   {
     day: "day1",
     date: "April 1st, 2025",
-    theme: "Ignition & Exploration",
-    subtheme: "Space Research & AI Innovation",
+    // theme: "Ignition & Exploration",
+    theme: "Lastest Tech Tools & Robotics Technology",
     sessions: [
       {
-        title: "Keynote Session: Future of Space Research & AI",
-        speaker: "Dr. Harshal Bhangale",
-        designation: "Senior Software Developer, Google",
-        time: "10:00 AM - 11:30 AM",
-        location: "JSPM's Auditorium",
+        title: "Session on Role of deep tech tools in accelerating energy transition",
+        speaker: "Dr Surekha Deshmukh",
+        designation: "Domain Consultant, Tata Consultancy Services",
+        time: "11:10 AM - 12:30 AM",
+        location: "Jayawant Auditorium, JSPM RSCOE, Tathawade",
       },
       {
-        title: "Technical Workshop: AI & ML in Space Technology",
-        speaker: "Prof. Rajesh Mehta",
-        designation: "AI Researcher, IIT Bombay",
+        title: "Sesson on New updates in Robotics Technology",
+        speaker: "Dr. Shantipal Ohol",
+        designation: "Associate Professor, COEP University, Pune",
         time: "2:00 PM - 4:00 PM",
-        location: "JSPM Auditorium",
+        location: "Jayawant Auditorium, JSPM RSCOE, Tathawade",
       },
     ],
   },
   {
     day: "day2",
     date: "April 2nd, 2025",
-    theme: "Innovation & Ideation",
-    subtheme: "Emerging Technologies & Research Paper Writing",
+    // theme: "Innovation & Ideation",
+    theme: "Emerging Embedded Technologies & Design Thinking",
     sessions: [
       {
-        title: "Panel Discussion: Emerging Technologies in Research",
-        speaker: "Dr. Priya Sharma & Mr. Amit Reddy",
-        designation: "Data Scientist, Google & Space Systems Engineer, ISRO",
+        title: "Session on Embedded Systems",
+        speaker: "Mr. Vishwas Vaidya",
+        designation: "Automotive Consultant at Congnizant",
         time: "10:00 AM - 12:00 PM",
-        location: "Conference Hall",
+        location: "Central Library, JSPM RSCOE, Tathawade",
       },
       {
-        title: "Hands-on Session: Research Paper Writing & Publishing",
+        title: "Session on Design Thinking Workshop",
+        speaker: "Dr. Sanjay Lakade",
+        designation: "Director & CEO @RSCOE Innovation and Incubation Foundation",
+        time: "1:30 PM - 3:30 PM",
+        location: "Central Library, JSPM RSCOE, Tathawade",
+
+      },
+      {
+        title: "Session on Patent Writing",
         speaker: "Dr. Sandeep Kulkarni",
         designation: "Research Paper Reviewer, IEEE",
-        time: "2:00 PM - 4:30 PM",
-        location: "Workshop Room",
-      },
-      {
-        title: "Networking & Mentorship: Connect with Industry Experts",
-        speaker: "Various Industry Mentors",
-        designation: "",
-        time: "5:00 PM - 6:30 PM",
-        location: "Networking Lounge",
+        time: "3:00 PM - 4:00 PM",
+        location: "Central Library, JSPM RSCOE, Tathawade",
       },
     ],
   },
   {
     day: "day3",
     date: "April 3rd, 2025",
-    theme: "Implementation & Presentation",
-    subtheme: "Practical Research & Innovation Showcase",
+    // theme: "Implementation & Presentation",
+    theme: "Practical Research Paper Writing & Booming AI Tech",
     sessions: [
       {
-        title: "Project Presentations: Showcase of Research & Innovation",
-        speaker: "Student Participants",
-        designation: "",
+        title: "Session on Research Paper Writing",
+        speaker: "Mr. Binod Kumar",
+        designation: "Professor & Dean of International Relations @RSCOE",
         time: "10:00 AM - 12:30 PM",
-        location: "Presentation Hall",
+        location: "Central Library, JSPM RSCOE, Tathawade",
       },
       {
-        title: "Hackathon / Ideathon: Solving Real-World Challenges",
-        speaker: "Judges: Industry Experts from ISRO, IEEE, and Academia",
-        designation: "",
-        time: "2:00 PM - 5:00 PM",
-        location: "Innovation Hub",
+        title: "Hands on Research Paper Writing",
+        speaker: "Prof. Swapnil Vyavahare",
+        designation: "Associate Professor",
+        time: "1:30 PM - 2:30 PM",
+        location: "Central Library, JSPM RSCOE, Tathawade",
       },
       {
-        title: "Closing Ceremony & Award Distribution",
-        speaker: "Organizing Committee",
-        designation: "",
-        time: "5:30 PM - 7:00 PM",
-        location: "Main Auditorium",
+        title: "Session on Booming AI technologies 6G, 5G",
+        speaker: "Mr. Pankaj Kulkarni",
+        designation: "Technical Lead at HNNOIX India Private Limited",
+        time: "2:30 PM - 4:00 PM",
+        location: "Central Library, JSPM RSCOE, Tathawade",
       },
     ],
   },
@@ -126,7 +127,7 @@ export function EventSchedule() {
                   <Calendar className="h-4 w-4 text-blue-500" />
                   <span>{day.date}</span>
                 </div>
-                <p className="text-gray-400">{day.subtheme}</p>
+                {/* <p className="text-gray-400">{day.subtheme}</p> */}
               </div>
 
               <div className="grid gap-6">
