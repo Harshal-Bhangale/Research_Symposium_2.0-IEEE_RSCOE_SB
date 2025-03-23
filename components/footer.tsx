@@ -8,10 +8,10 @@ export function Footer() {
           <div>
             <h3 className="text-xl font-bold text-white mb-4">Research Symposium 2.0</h3>
             <p className="text-gray-400 mb-4">
-              A 3-day event focused on research, technology, and innovation by IEEE RSCOE SB.
+              A 3-day event focused on research, technology, and innovation by IEEE RSCOE Student Branch.
             </p>
             <div className="flex space-x-4">
-              <a href="#" className="text-gray-400 hover:text-white transition-colors" aria-label="Twitter">
+              {/* <a href="#" className="text-gray-400 hover:text-white transition-colors" aria-label="Twitter">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="24"
@@ -25,8 +25,8 @@ export function Footer() {
                 >
                   <path d="M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z" />
                 </svg>
-              </a>
-              <a href="#" className="text-gray-400 hover:text-white transition-colors" aria-label="Instagram">
+              </a> */}
+              <a href="https://www.instagram.com/ieeerscoesb/" className="text-gray-400 hover:text-white transition-colors" aria-label="Instagram">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="24"
@@ -43,7 +43,7 @@ export function Footer() {
                   <line x1="17.5" x2="17.51" y1="6.5" y2="6.5" />
                 </svg>
               </a>
-              <a href="#" className="text-gray-400 hover:text-white transition-colors" aria-label="LinkedIn">
+              <a href="https://www.linkedin.com/company/ieee-rscoe/posts/?feedView=all" className="text-gray-400 hover:text-white transition-colors" aria-label="LinkedIn">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="24"
@@ -98,9 +98,9 @@ export function Footer() {
             <h3 className="text-lg font-bold text-white mb-4">Contact Us</h3>
             <address className="not-italic text-gray-400 space-y-2">
               <p>IEEE RSCOE Student Branch</p>
-              <p>RSCOE Campus, Pune</p>
-              <p>Email: ieee@rscoe.edu</p>
-              <p>Phone: +91 1234567890</p>
+              <p>JSPM Rajarshi Shahu College Of Engineering , Tathawade, Pune</p>
+              <p>Email: ieeerscoe@jspmrscoe.edu.in</p>
+              {/* <p>Phone: +91 1234567890</p> */}
             </address>
           </div>
         </div>

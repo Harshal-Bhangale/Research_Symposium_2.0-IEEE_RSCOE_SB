@@ -19,7 +19,7 @@ export function LocationSection() {
             <span className="text-gradient">Event Location</span>
           </h2>
           <p className="text-gray-400 max-w-2xl mx-auto">
-            Join us at JSPM RSCOE campus for three days of innovation and research
+            Join us at JSPM RSCOE Tathawade campus for three days of innovation and research
           </p>
         </motion.div>
 
