@@ -53,7 +53,7 @@ export function HeroSection() {
               </div>
               <div className="flex items-center gap-2 text-gray-300">
                 <MapPin className="h-5 w-5 text-purple-500" />
-                <span>RSCOE Campus</span>
+                <span>JSPM RSCOE, Tathawade Campus</span>
               </div>
               <div className="flex items-center gap-2 text-gray-300">
                 <Users className="h-5 w-5 text-pink-500" />
