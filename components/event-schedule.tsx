@@ -44,16 +44,16 @@ const scheduleData = [
       },
       {
         title: "Session on Design Thinking Workshop",
-        speaker: "Dr. Sanjay Lakade",
-        designation: "Director & CEO @RSCOE Innovation and Incubation Foundation",
+        speaker: "Mr. Rakshit Jain",
+        designation: "SDE Intern PTC",
         time: "1:30 PM - 3:30 PM",
         location: "Central Library, JSPM RSCOE, Tathawade",
 
       },
       {
         title: "Session on Patent Writing",
-        speaker: "Dr. Sandeep Kulkarni",
-        designation: "Research Paper Reviewer, IEEE",
+        speaker: "Dr. Sanjay Lakade",
+        designation: "Director & CEO @RSCOE Innovation and Incubation Foundation",
         time: "3:00 PM - 4:00 PM",
         location: "Central Library, JSPM RSCOE, Tathawade",
       },
