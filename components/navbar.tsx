@@ -43,7 +43,7 @@ export function Navbar() {
           <img src="/logo.jpg?height=40&width=120" alt="IEEE RSCOE SB Logo" className="h-8 md:h-10" />
         </Link>
 
-        {/* Desktop Navigation */}
+        {/* Desktop Navigation */}  
         <div className="hidden md:flex items-center space-x-8">
           {navLinks.map((link) => (
             <Link key={link.name} href={link.href} className="text-gray-300 hover:text-white transition-colors">

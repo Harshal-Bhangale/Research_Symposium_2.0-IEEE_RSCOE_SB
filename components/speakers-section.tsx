@@ -11,15 +11,15 @@ const speakersData = [
     speakers: [
       {
         name: "Dr. Surekha Deshmukh",
-        designation: "Domain Consultant - TCS | Chair-WIE-IEEE Smart Cities | Former Char- IEEE Pune Section in Energy Transition Decarbonization",
-        bio: "Dr. Harshal Bhangale has over 1 years of experience in   research and has contributed to several projects.",
+        designation: "Domain Consultant, Tata Consultancy Services",
+        bio: "Domain Consultant - TCS | Chair-WIE-IEEE Smart Cities | Former Char- IEEE Pune Section in Energy Transition Decarbonization",
         image: "/placeholder.svg?height=300&width=300",
         session: "Session on Role of deep tech tools in accelerating energy transition",
       },
       {
         name: "Dr. Shantipal Ohol",
         designation: "Associate Professor, COEP University, Pune",
-        bio: "Chair IEEE RAS Pune Section",
+        bio: "Chair IEEE RAS Pune Section | Professor at COEP Technological University, Pune",
         image: "/placeholder.svg?height=300&width=300",
         session: "Sesson on New updates in Robotics Technology",
       },
@@ -45,7 +45,7 @@ const speakersData = [
       {
         name: "Dr. Sanjay Lakade",
         designation: "Director & CEO @RSCOE Innovation and Incubation Foundation",
-        // bio: "Dr. Sandeep Kulkarni has reviewed over 200 research papers and guides researchers on effective paper writing.",
+        bio: "Director & CEO @RSCOE Innovation and Incubation Foundation",
         image: "/placeholder.svg?height=300&width=300",
         session: "Session on Patent Writing",
       },
@@ -57,7 +57,7 @@ const speakersData = [
       {
         name: "Mr. Binod Kumar",
         designation: "Professor & Dean of International Relations @RSCOE",
-        bio: "A panel of distinguished judges from ISRO, IEEE, and leading academic institutions will evaluate the projects.",
+        bio: "Dean (International Relations) & Professor | Ph.D(Computer Sc.) | SMIEEE(USA), SMACM | Aluminus of NIT Jamshedpur| IEEE Senior Member of Year 2023 award recipient under Pune Section",
         image: "/placeholder.svg?height=300&width=300",
         session: "Session on Research Paper Writing",
       },
