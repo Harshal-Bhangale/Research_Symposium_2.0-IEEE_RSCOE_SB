@@ -12,7 +12,7 @@ const speakersData = [
       {
         name: "Dr. Surekha Deshmukh",
         designation: "Domain Consultant, Tata Consultancy Services",
-        bio: "Domain Consultant - TCS | Chair-WIE-IEEE Smart Cities | Former Char- IEEE Pune Section in Energy Transition Decarbonization",
+        bio: "Domain Consultant - TCS | Chair-WIE-IEEE Smart Cities | Former Chair- IEEE Pune Section in Energy Transition Decarbonization",
         image: "/placeholder.svg?height=300&width=300",
         session: "Session on Role of deep tech tools in accelerating energy transition",
       },
