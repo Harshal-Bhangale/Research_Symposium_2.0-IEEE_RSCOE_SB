@@ -90,7 +90,7 @@ export function RegistrationSection() {
               <div>
                 <h4 className="text-lg font-medium text-white mb-2">Who Can Attend?</h4>
                 <p className="text-gray-400">
-                  Students, researchers, and professionals interested in space research, AI, and emerging technologies.
+                  Students, researchers, and professionals interested in research, AI, and emerging technologies.
                 </p>
               </div>
 
