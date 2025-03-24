@@ -56,8 +56,7 @@ export function RegistrationSection() {
                     <div>
                       <h4 className="text-lg font-medium text-white">Networking Opportunities</h4>
                       <p className="text-gray-400">
-                        Connect with industry experts, researchers, and fellow students interested in space research and
-                        technology.
+                        Connect with industry experts, researchers, and fellow students interested in research field & technology.
                       </p>
                     </div>
                   </div>
