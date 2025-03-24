@@ -44,7 +44,7 @@ export function RegistrationSection() {
                     <div>
                       <h4 className="text-lg font-medium text-white">3-Day Immersive Experience</h4>
                       <p className="text-gray-400">
-                        Keynotes, workshops, panel discussions, and hands-on sessions spread across three days.
+                        Keynotes, workshops, and hands-on sessions spread across three days.
                       </p>
                     </div>
                   </div>
@@ -69,7 +69,7 @@ export function RegistrationSection() {
                     <div>
                       <h4 className="text-lg font-medium text-white">Certificates & Prizes</h4>
                       <p className="text-gray-400">
-                        Participation certificates for all attendees and exciting prizes for hackathon/ideathon winners.
+                        Participation certificates for all attendees and exciting goodies.
                       </p>
                     </div>
                   </div>
