@@ -106,7 +106,7 @@ export function RegistrationSection() {
 
               <div>
                 <h4 className="text-lg font-medium text-white mb-2">Registration Deadline</h4>
-                <p className="text-gray-400">March 30, 2025 (Limited seats available)</p>
+                <p className="text-gray-400">March 31st, 2025 (Limited seats available)</p>
               </div>
             </div>
 
