@@ -10,19 +10,26 @@ const speakersData = [
     day: "day1",
     speakers: [
       {
-        name: "Dr. Surekha Deshmukh",
-        designation: "Domain Consultant, Tata Consultancy Services",
-        bio: "Domain Consultant - TCS | Chair-WIE-IEEE Smart Cities | Former Chair- IEEE Pune Section in Energy Transition Decarbonization",
-        image: "/Speakers/Dr. Surekha Deshmukh.png/?height=300&width=300",
-        session: "Session on Role of deep tech tools in accelerating energy transition",
-      },
-      {
         name: "Dr. Shantipal Ohol",
         designation: "Associate Professor, COEP University, Pune",
         bio: "Chair IEEE RAS Pune Section | Professor at COEP Technological University, Pune",
         image: "/Speakers/Dr. Shantipal Ohol.png/?height=300&width=300",
         session: "Sesson on New updates in Robotics Technology",
       },
+      {
+        name: "Mr. Sagar Mangulakar",
+        designation: "Managing Director Automax Robotics, Pune",
+        bio: "Robotics Engineer | Mechanical Design | Ex. SVR Infotech. Itd, Pune | Hydraulics | Robotics | Automation",
+        image: "/Speakers/Mr. Sagar Mangulkar.jpg/?height=300&width=300",
+        session: "Sesson on Automation Robotics",
+      },
+      {
+        name: "Mr. Pankaj Kulkarni",
+        designation: "Technical Lead at HNNOIX India Private Limited",
+        bio: "5G/6G Innovator, IEEE Senior Member, AI/ML for PHY Layer, DSP Firmware Expert, Telecom Architect.",
+        image: "/Speakers/Mr. Pankaj Kulkarni.png?height=300&width=300",
+        session: "Session on Booming AI technologies 6G, 5G",
+      }
     ],
   },
   {
@@ -68,13 +75,14 @@ const speakersData = [
         image: "/Speakers/Mr. Swapnil Vyavahare.png?height=300&width=300",
         session: "Hands on Research Paper Writing",
       },
+
       {
-        name: "Mr. Pankaj Kulkarni",
-        designation: "Technical Lead at HNNOIX India Private Limited",
-        bio: "5G/6G Innovator, IEEE Senior Member, AI/ML for PHY Layer, DSP Firmware Expert, Telecom Architect.",
-        image: "/Speakers/Mr. Pankaj Kulkarni.png?height=300&width=300",
-        session: "Session on Booming Ai technologies 6G, 5G",
-      },
+        name: "Dr. Surekha Deshmukh",
+        designation: "Domain Consultant, Tata Consultancy Services",
+        bio: "Domain Consultant - TCS | Chair-WIE-IEEE Smart Cities | Former Chair- IEEE Pune Section in Energy Transition Decarbonization",
+        image: "/Speakers/Dr. Surekha Deshmukh.png/?height=300&width=300",
+        session: "Session on Role of deep tech tools in accelerating energy transition",
+      }
     ],
   },
 ]
@@ -96,8 +104,7 @@ export function SpeakersSection() {
             <span className="text-gradient">Meet Our Speakers</span>
           </h2>
           <p className="text-gray-400 max-w-2xl mx-auto">
-            Learn from industry experts, researchers, and innovators who are leading the way in space research and
-            technology.
+            Learn from industry experts, researchers, and innovators who are leading the way in research and technology.
           </p>
         </motion.div>
 
