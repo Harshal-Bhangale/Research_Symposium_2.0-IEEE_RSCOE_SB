@@ -5,6 +5,7 @@ import { motion } from "framer-motion"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Clock, Calendar, MapPin } from "lucide-react"
+import { title } from "process"
 
 const scheduleData = [
   {
@@ -24,7 +25,7 @@ const scheduleData = [
         title: "Sesson on Automation Robotics",
         speaker: "Mr. Sagar Mangulakar",
         designation: "Managing Director Automax Robotics, Pune",
-        time: "2:450 PM - 4:30 PM",
+        time: "1:30 PM - 2:45 PM",
         location: "Jayawant Auditorium, JSPM RSCOE, Tathawade",
       },
     ],
@@ -66,26 +67,27 @@ const scheduleData = [
     theme: "Practical Research Paper Writing & Booming AI Tech",
     sessions: [
       {
+        title: "Session on Role of Deep Tech Tools in Accelerating Energy Transition",
+        speaker: "Dr Surekha Deshmukh",
+        designation: "Domain Consultant, Tata Consultancy Services",
+        time: "10:00 AM - 12:00 AM",
+        location: "Jayawant Auditorium, JSPM RSCOE, Tathawade",
+      },
+      {
         title: "Session on Research Paper Writing",
         speaker: "Mr. Binod Kumar",
         designation: "Professor & Dean of International Relations @RSCOE",
-        time: "10:00 AM - 12:30 PM",
+        time: "1:30 pM - 2:30 PM",
         location: "Central Library, JSPM RSCOE, Tathawade",
       },
       {
         title: "Hands on Research Paper Writing",
         speaker: "Prof. Swapnil Vyavahare",
         designation: "Associate Professor",
-        time: "1:30 PM - 2:30 PM",
+        time: "2:30 PM - 4:00 PM",
         location: "Central Library, JSPM RSCOE, Tathawade",
       },
-      {
-        title: "Session on Role of Deep Tech Tools in Accelerating Energy Transition",
-        speaker: "Dr Surekha Deshmukh",
-        designation: "Domain Consultant, Tata Consultancy Services",
-        time: "2:30 PM - 4:00 PM",
-        location: "Jayawant Auditorium, JSPM RSCOE, Tathawade",
-      },
+
     ],
   },
 ]

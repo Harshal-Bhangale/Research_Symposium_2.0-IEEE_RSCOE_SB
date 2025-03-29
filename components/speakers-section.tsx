@@ -55,6 +55,13 @@ const speakersData = [
     day: "day3",
     speakers: [
       {
+        name: "Dr. Surekha Deshmukh",
+        designation: "Domain Consultant, Tata Consultancy Services",
+        bio: "Domain Consultant - TCS | Chair-WIE-IEEE Smart Cities | Former Chair- IEEE Pune Section in Energy Transition Decarbonization",
+        image: "/Speakers/Dr. Surekha Deshmukh.png/?height=300&width=300",
+        session: "Session on Role of deep tech tools in accelerating energy transition",
+      },
+      {
         name: "Mr. Binod Kumar",
         designation: "Professor & Dean of International Relations @RSCOE",
         bio: "Dean (International Relations) & Professor | Ph.D(Computer Sc.) | SMIEEE(USA), SMACM | Aluminus of NIT Jamshedpur| IEEE Senior Member of Year 2023 award recipient under Pune Section",
@@ -68,14 +75,6 @@ const speakersData = [
         image: "/Speakers/Mr. Swapnil Vyavahare.png?height=300&width=300",
         session: "Hands on Research Paper Writing",
       },
-
-      {
-        name: "Dr. Surekha Deshmukh",
-        designation: "Domain Consultant, Tata Consultancy Services",
-        bio: "Domain Consultant - TCS | Chair-WIE-IEEE Smart Cities | Former Chair- IEEE Pune Section in Energy Transition Decarbonization",
-        image: "/Speakers/Dr. Surekha Deshmukh.png/?height=300&width=300",
-        session: "Session on Role of deep tech tools in accelerating energy transition",
-      }
     ],
   },
 ]
