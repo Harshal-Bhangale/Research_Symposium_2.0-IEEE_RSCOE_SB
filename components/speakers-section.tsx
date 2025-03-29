@@ -23,13 +23,6 @@ const speakersData = [
         image: "/Speakers/Mr. Sagar Mangulkar.jpg/?height=300&width=300",
         session: "Sesson on Automation Robotics",
       },
-      {
-        name: "Mr. Pankaj Kulkarni",
-        designation: "Technical Lead at HNNOIX India Private Limited",
-        bio: "5G/6G Innovator, IEEE Senior Member, AI/ML for PHY Layer, DSP Firmware Expert, Telecom Architect.",
-        image: "/Speakers/Mr. Pankaj Kulkarni.png?height=300&width=300",
-        session: "Session on Booming AI technologies 6G, 5G",
-      }
     ],
   },
   {

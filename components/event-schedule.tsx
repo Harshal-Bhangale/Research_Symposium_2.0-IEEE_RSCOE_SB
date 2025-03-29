@@ -21,13 +21,6 @@ const scheduleData = [
         location: "Jayawant Auditorium, JSPM RSCOE, Tathawade",
       },
       {
-        title: "Session on Booming AI technologies 6G, 5G",
-        speaker: "Mr. Pankaj Kulkarni",
-        designation: "Technical Lead at HNNOIX India Private Limited",
-        time: "1:30 PM - 2:45 PM",
-        location: "Central Library, JSPM RSCOE, Tathawade",
-      },
-      {
         title: "Sesson on Automation Robotics",
         speaker: "Mr. Sagar Mangulakar",
         designation: "Managing Director Automax Robotics, Pune",

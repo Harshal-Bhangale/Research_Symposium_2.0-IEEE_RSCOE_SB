@@ -97,9 +97,7 @@ export function RegistrationSection() {
               <div>
                 <h4 className="text-lg font-medium text-white mb-2">Registration Fee</h4>
                 <p className="text-gray-400">
-                  IEEE Members: ₹150
-                  <br />
-                  Non-IEEE Members: ₹200
+                  Entry : ₹50
                 </p>
               </div>
 
